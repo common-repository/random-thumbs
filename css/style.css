@@ -1,0 +1,27 @@
+/* Posts Randômicos */
+
+#randPosts {
+	margin: 0 0 50px 0;
+}
+
+.randPost {
+	overflow: hidden;
+	float: left;
+	background-color: #ccc;
+	border: 5px solid #ccc;
+	margin: 7px;
+	outline: 5px solid #fff;
+}
+
+#randPosts a {
+	color: #333;
+	text-decoration: none;
+}
+
+#randPosts a:hover .randPost {
+	border: 5px solid #ccc;
+	margin: 7px;
+	outline: 5px solid #ccf;
+}
+
+/* Fim */

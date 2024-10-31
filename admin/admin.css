@@ -1,0 +1,11 @@
+/* CSS Document */
+
+#wprt_admin {
+	padding: 20px;
+}
+
+#wprt_form label {
+	display: block;
+	float: left;
+	width: 150px;
+}
